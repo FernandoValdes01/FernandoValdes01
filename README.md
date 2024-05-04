@@ -1,7 +1,6 @@
 # Hello There!🦝
 
-## About Me
-I'm a [civil engineering student in computer science](https://facultadingenieria.uct.cl/ingenieria-civil-en-informatica/) looking to become a technology enthusiast. I also have knowledge of web development, focusing more as a backend developer👾
+## Who am i?  I'm a [Civil Engineering student in computer science💻](https://facultadingenieria.uct.cl/ingenieria-civil-en-informatica/) looking to become a technology enthusiast. I also have knowledge of web development, focusing more as a backend developer👾
 ## Lenguajes Que uso a Diario🐊;
 |   Principales   |                                      |   Secundarios   |                                     |
 |:------------:|:---------------------------------------:|:------------:|:---------------------------------------:|
