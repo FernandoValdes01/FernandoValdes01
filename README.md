@@ -1,4 +1,4 @@
-# Hello There!🦝
+# Hello There!🦝👾
 
 ## Who am i?  I'm a [Civil Engineering student in computer science💻](https://facultadingenieria.uct.cl/ingenieria-civil-en-informatica/) looking to become a technology enthusiast. I also have knowledge of web development, focusing more as a backend developer👾
 ## Languages ​​I use daily🐊;
