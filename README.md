@@ -1,4 +1,4 @@
-![GitHub Logo](gi.png)
+![GitHub Logo](myheader.png)
 
 ## Hello There 👾
 
