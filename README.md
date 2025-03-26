@@ -3,7 +3,7 @@
 ## Hello There 👾
 
 
-I'm a [Civil Engineering student in computer science💻](https://facultadingenieria.uct.cl/ingenieria-civil-en-informatica/) with a strong commitment to technological innovation. I have built a solid foundation in web development—primarily as a backend developer—and I hold a keen interest in data science. Through rigorous study and practical experience, I strive to integrate engineering principles with cutting-edge technology solutions.
+I'm a [computer engineer💻](https://facultadingenieria.uct.cl/ingenieria-civil-en-informatica/) with a strong commitment to technological innovation. I have built a solid foundation in web development—primarily as a backend developer—and I hold a keen interest in data science. Through rigorous study and practical experience, I strive to integrate engineering principles with cutting-edge technology solutions.
 ## Technologies that I use🐊;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
