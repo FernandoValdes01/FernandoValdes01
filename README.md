@@ -7,7 +7,7 @@ I'm a [computer engineer💻](https://facultadingenieria.uct.cl/ingenieria-civil
 
 ### “Do. Or do not. There is no try.” – Yoda
 
-## Technologies that I use🐊;
+## Tech Stack💻;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
