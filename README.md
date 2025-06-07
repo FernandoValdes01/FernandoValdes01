@@ -3,7 +3,7 @@
 ## Hello There 👾
 
 
-I'm a [computer engineer💻](https://facultadingenieria.uct.cl/ingenieria-civil-en-informatica/) with a strong commitment to technological innovation. I have built a solid foundation in web development—primarily as a backend developer—and I hold a keen interest in data science. Through rigorous study and practical experience, I strive to integrate engineering principles with cutting-edge technology solutions.
+I'm a [civil engineer in informatics💻](https://facultadingenieria.uct.cl/ingenieria-civil-en-informatica/) with a strong commitment to technological innovation. I have built a solid foundation in web development—primarily as a backend developer—and I hold a keen interest in data science. Through rigorous study and practical experience, I strive to integrate engineering principles with cutting-edge technology solutions.
 
 ### “Do. Or do not. There is no try.” – Yoda
 
