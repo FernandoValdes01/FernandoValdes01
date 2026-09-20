@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./profile-terminal.svg" alt="Fernando Valdes G. profile terminal" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-terminal.svg?v=3" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-terminal-light.svg?v=3" />
+    <img src="./profile-terminal.svg?v=3" alt="Fernando Valdes G. animated profile terminal" width="100%" />
+  </picture>
 </div>
 
 ## Hello there 👾
@@ -13,24 +17,24 @@ I'm currently focused on backend development, APIs, data-driven solutions, and l
 ## Tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-1b263b?style=for-the-badge&logo=python&logoColor=a8b8cc" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-1b263b?style=for-the-badge&logo=go&logoColor=a8b8cc" alt="Go" />
+  <img src="https://img.shields.io/badge/R-1b263b?style=for-the-badge&logo=r&logoColor=a8b8cc" alt="R" />
+  <img src="https://img.shields.io/badge/JavaScript-1b263b?style=for-the-badge&logo=javascript&logoColor=a8b8cc" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-1b263b?style=for-the-badge&logo=typescript&logoColor=a8b8cc" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/NumPy-1b263b?style=for-the-badge&logo=numpy&logoColor=a8b8cc" alt="NumPy" />
+  <img src="https://img.shields.io/badge/FastAPI-1b263b?style=for-the-badge&logo=fastapi&logoColor=a8b8cc" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-1b263b?style=for-the-badge&logo=flask&logoColor=a8b8cc" alt="Flask" />
+  <img src="https://img.shields.io/badge/Laravel-1b263b?style=for-the-badge&logo=laravel&logoColor=a8b8cc" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-1b263b?style=for-the-badge&logo=react&logoColor=a8b8cc" alt="React" />
+  <img src="https://img.shields.io/badge/Convex-1b263b?style=for-the-badge&logo=convex&logoColor=a8b8cc" alt="Convex" />
+  <img src="https://img.shields.io/badge/MongoDB-1b263b?style=for-the-badge&logo=mongodb&logoColor=a8b8cc" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-1b263b?style=for-the-badge&logo=mysql&logoColor=a8b8cc" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-1b263b?style=for-the-badge&logo=mariadb&logoColor=a8b8cc" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Docker-1b263b?style=for-the-badge&logo=docker&logoColor=a8b8cc" alt="Docker" />
+  <img src="https://img.shields.io/badge/Podman-1b263b?style=for-the-badge&logo=podman&logoColor=a8b8cc" alt="Podman" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1b263b?style=for-the-badge&logo=arch-linux&logoColor=a8b8cc" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Git-1b263b?style=for-the-badge&logo=git&logoColor=a8b8cc" alt="Git" />
 </p>
 
 <p align="center">
@@ -41,10 +45,10 @@ I'm currently focused on backend development, APIs, data-driven solutions, and l
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoValdes01&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Fernando's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoValdes01&layout=compact&theme=dark&hide_border=true" alt="Fernando's most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoValdes01&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1729&title_color=11e6ff&text_color=dce6f5&icon_color=00e676" alt="Fernando's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoValdes01&layout=compact&hide_border=true&bg_color=0d1729&title_color=11e6ff&text_color=dce6f5&icon_color=00e676" alt="Fernando's most used languages" />
 </div>
 
 <div align="center">
-  <sub>Made with code, curiosity, and a little bit of Mandalorian stubbornness.</sub>
+  <sub>Hecho con código, curiosidad y ganas de construir software útil para la gente. This is the way.</sub>
 </div>

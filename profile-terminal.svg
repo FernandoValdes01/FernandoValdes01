@@ -16,10 +16,14 @@
   <text x="318" y="107" fill="#8391aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" text-anchor="end">300x345 / 1-BIT</text>
 
   <path d="M52 124h10 M52 124v10 M318 124h-10 M318 124v10 M52 395h10 M52 395v-10 M318 395h-10 M318 395v-10" fill="none" stroke="#11e6ff" stroke-width="1" opacity=".65"/>
-  <text x="185" y="177" fill="#11e6ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="58" font-weight="700" text-anchor="middle">&lt;/&gt;</text>
-  <text x="185" y="195" fill="#8293b0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" text-anchor="middle">CODE.NODE</text>
+  <g id="code-node">
+    <text x="185" y="177" fill="#11e6ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="58" font-weight="700" text-anchor="middle">&lt;/&gt;</text>
+    <text x="185" y="195" fill="#8293b0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" text-anchor="middle">CODE.NODE</text>
+    <animate attributeName="opacity" dur="10s" repeatCount="indefinite" keyTimes="0;.3;.5;.8;1" values="1;1;0;0;1"/>
+    <animateTransform attributeName="transform" type="translate" dur="10s" repeatCount="indefinite" keyTimes="0;.3;.5;.8;1" values="0 0;0 0;0 8;0 8;0 0"/>
+  </g>
 
-  <g fill="#b995ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" xml:space="preserve">
+  <g id="boba-fett" fill="#b995ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" xml:space="preserve" opacity="0">
     <text x="59" y="229">⢀⣀⣀⡀⠀⠀⢀⣀⣀⣀⡀⠀⠀⠀⠀⠀</text>
     <text x="59" y="239">⠈⢹⠉⢁⣴⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀</text>
     <text x="59" y="249">⠀⢸⠀⣾⣿⣿⣿⣿⣿⣿⣷⣶⣿⣿⡀⠀</text>
@@ -29,8 +33,10 @@
     <text x="59" y="289">⠀⢰⣿⣿⣿⣿⡆⢸⣿⡇⢠⣿⣿⣿⣿⡇</text>
     <text x="59" y="299">⠀⠈⠙⠻⢿⣿⣿⢸⣿⡇⣸⣿⡿⠟⠋⠁</text>
     <text x="59" y="309">⠀⠀⠀⠀⠀⠈⠉⠈⠉⠁⠉⠁⠀⠀⠀⠀</text>
+    <animate attributeName="opacity" dur="10s" repeatCount="indefinite" keyTimes="0;.3;.5;.8;1" values="0;0;1;1;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="10s" repeatCount="indefinite" keyTimes="0;.3;.5;.8;1" values="0 -8;0 -8;0 0;0 0;0 -8"/>
   </g>
-  <text x="52" y="418" fill="#00e676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">FPS 10000 · FS/BOBAFETT</text>
+  <text x="52" y="418" fill="#00e676" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">FPS 10000 · a.k.a. &quot;Corvo&quot;</text>
 
   <rect x="350" y="85" width="610" height="345" rx="6" fill="#101d34" stroke="#1d3557"/>
   <text x="365" y="107" fill="#11e6ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700">SYSTEM.INFO</text>
