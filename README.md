@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-terminal-morph.svg?v=5" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-terminal-morph-light.svg?v=5" />
-    <img src="./profile-terminal-morph.svg?v=5" alt="Fernando Valdes G. animated particle profile terminal" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-terminal-morph-v2.svg?v=6" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-terminal-morph-v2-light.svg?v=6" />
+    <img src="./profile-terminal-morph-v2.svg?v=6" alt="Fernando Valdes G. animated particle profile terminal" width="100%" />
   </picture>
 </div>
 

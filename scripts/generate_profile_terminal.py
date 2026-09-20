@@ -45,14 +45,14 @@ BRAILLE_DOTS = (
 )
 
 THEMES = {
-    "profile-terminal-morph.svg": {
+    "profile-terminal-morph-v2.svg": {
         "line": "#1d3557",
         "muted": "#8293b0",
         "code": "#11e6ff",
         "boba": "#b995ff",
         "footer": "#00e676",
     },
-    "profile-terminal-morph-light.svg": {
+    "profile-terminal-morph-v2-light.svg": {
         "line": "#cbd5e1",
         "muted": "#64748b",
         "code": "#0891b2",
