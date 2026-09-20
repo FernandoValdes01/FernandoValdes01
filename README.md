@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-terminal.svg?v=3" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-terminal-light.svg?v=3" />
-    <img src="./profile-terminal.svg?v=3" alt="Fernando Valdes G. animated profile terminal" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-terminal.svg?v=4" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-terminal-light.svg?v=4" />
+    <img src="./profile-terminal.svg?v=4" alt="Fernando Valdes G. animated profile terminal" width="100%" />
   </picture>
 </div>
 
@@ -42,13 +42,6 @@ I'm currently focused on backend development, APIs, data-driven solutions, and l
   <a href="mailto:Fernandoalonsovaldes@gmail.com">Email</a>
 </p>
 
-## GitHub activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoValdes01&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1729&title_color=11e6ff&text_color=dce6f5&icon_color=00e676" alt="Fernando's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoValdes01&layout=compact&hide_border=true&bg_color=0d1729&title_color=11e6ff&text_color=dce6f5&icon_color=00e676" alt="Fernando's most used languages" />
-</div>
-
-<div align="center">
-  <sub>Hecho con código, curiosidad y ganas de construir software útil para la gente. This is the way.</sub>
+  <sub>Made with code, curiosity, and a drive to build software that helps people. This is the way.</sub>
 </div>
