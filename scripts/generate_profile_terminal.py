@@ -190,7 +190,6 @@ def particle_group(theme: dict[str, str]) -> str:
     parts.extend(
         [
             "  </g>",
-            f'  <text x="185" y="342" fill="{theme["muted"]}" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" text-anchor="middle">CODE.NODE ↔ BOBA.NODE</text>',
             f'  <text x="52" y="418" fill="{theme["footer"]}" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">PTS {PARTICLE_COUNT:04d} · a.k.a. &quot;Corvo&quot;</text>',
         ]
     )
